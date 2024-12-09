@@ -1,0 +1,12 @@
+id,email,password,full_name,role,top_category1,top_category2,top_category3
+1,vic@gmail.com,12345678,,GENERAL_USER,,,
+2,vic1@gmail.com,$2a$10$zG3GddKqIUixbwgec/iG9uJa1TzDoxFtdk1WL6m8E9bRZe/FJKnzS,,GENERAL_USER,1,5,9
+3,vic20@gmail.com,$2a$10$1hKN9N/PBmxz.BbWExLfYOw7LofKqAJe4uHjrdIIppxUGN9M6CSom,,GENERAL_USER,3,4,6
+4,vic11@gmail.com,$2a$10$5HIsdMVoQZc.7RSBvqM5M.2cT9SDfRzep564p0K3c66WoIP8rT5fK,,ADMIN,,,
+5,big@email.com,$2a$10$r3CS6XlvIH2dTIN.6vvileiIOaZjtUKUmtTRO5jxCepyXi2ByviP6,,GENERAL_USER,2,6,8
+6,vic1234@gmail.com,$2a$10$GdArvYGZ8O8cQ5/UnI6UxuvjJvBWkHEQY1TpJWaYZECNrcJ5kiOJq,,GENERAL_USER,,,
+7,alex@email.com,$2a$10$Bi6gp5FZ6FOafzmvggz0dOJ55NlO5iGldGKnCUPoq1RT8WsVriAte,,GENERAL_USER,1,2,7
+8,john@email.com,$2a$10$fRSH3QPn5yzQgZRU/V.rIOxJ.jlqNQ/GN0rPz/Z/mM0D/GIRblhQO,,GENERAL_USER,4,5,6
+9,olawale@gmail.com,$2a$10$AwbgslWXkUZzncIkTzTdTuBZAnQmJFeXvfVBtP3Ker7Mknv4nJLjq,,GENERAL_USER,3,7,9
+10,te2@test.com,$2a$10$gn8KtjtPMLku0.LjJ26VauDqsQRCtdGueKhf.68Z69yUWKG4d35R2,,GENERAL_USER,7,8,9
+11,tem1@test.com,$2a$10$sgjIQwwoy6PZ/Ve/r90RjueztxrUEufCBWQHyzVbMG6MdvuBANJvy,,GENERAL_USER,2,4,8

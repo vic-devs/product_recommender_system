@@ -1,0 +1,50 @@
+product_id,name,description,price,category_id,stock_quantity,is_active,tags,rating,created_at,updated_at
+1,Iphone,Red Iphone,1.04,7,3,1,mobile,,,
+2,Vision LED Task Light and Base,"A brand-new, unused, unopened, undamaged item in its original packaging",24.0,3,2,1,Home,50.0,,
+3,Good American Women's Mesh Tank ,"
+Fabric type
+Shell: 95% recycled polyester, 5% elastane
+Care instructions
+Wash cold
+Origin
+Imported
+Closure type
+Pull On
+",39.5,1,8,1,"clothing, fashion",4.0,,
+4,Kazeila Artificial Lemon Tree,"6 Feet Fake Lemon Plant, Pre Potted Faux Lemon Tree, Plastic Lemon Fruit Tree for Home Decor Living Room Office ",79.0,3,5,1,"Home, Garden",4.0,,
+5,"Nuakene Face & Neck Skin Care Beauty Meter,","Nuakene Face & Neck Skin Care Beauty Meter, Rechargeable Vibrating Heating Massager, Home Neck & Facial Massage Tool, Skin Care Gift for Women",16.88,6,3,1,"Beauty, Women",4.0,,
+6,5 pack 5-Pack Women's High-Waisted Super Soft Leggings,"5 pack 5-Pack Women's High-Waisted Super Soft Leggings with Pockets for Workout, Yoga, Running",26.26,1,4,1,"clothing, women, fashion",3.0,,
+7,Tablet 10.1 Inch Android 14 OS Tablet,"Tablet 10.1 Inch Android 14 OS Tablet, 2 In 1 Tablets With Keyboard, Mouse, Case, Stylus, 128GB ROM 12GB (4GB+8GB) RAM, Dual Camera, Eight Core Processor, 1280 * 800 IPS High-definition Display Screen, GMS Certified Tab, 5G WiFi 6, Google, Pad, Tablet",97.99,7,4,1,electronics,4.0,,
+8,"45pcs/set, Silicone Baking Set","45pcs/set, Silicone Baking Set, Nonstick Bakeware Set Baking Cookie Sheets Cake Muffin Bread Pan, Loaf Pan, Cake Pan, Pizza Pan, Mini Cupcake Mold, Bundt Pan, Charlotte Cake Pan, Measuring Cup And Spoon, Baking Tools",27.97,4,4,1,"kitchen, home",4.0,,
+9,2/6pcs Wooden Cooking Spoons,"2/6pcs Wooden Cooking Spoons, Smooth Teak Wooden Cooking Utensils, Soft And Comfortable Cooking Wooden Spoons, Non Stick Wooden Cooking Utensils, Wooden Spoons Set",7.64,3,5,1,"kitchen, home",3.0,,
+10,Drop-shaped Breastplate With Silicone ,"Drop-shaped Breastplate With Silicone & casual Filler, Realistic C-G Cup Fake Breast, Women's Lingerie & Underwear Accessories",54.0,6,4,1,"Beauty, Women",5.0,,
+11,Don't Believe Everything You Think,Don't Believe Everything You Think: Why Your Thinking Is The Beginning & End Of Suffering,13.72,8,7,1,books,4.0,,
+12,Small Talk that Doesn't Suck,Small Talk that Doesn't Suck: Stop Talking About the Weather & Start Making Real Connections,30.47,8,5,1,books,4.0,,
+13,Black Christmas Tree 2/3/4/5/6/7/8FT Fluffy,Black Christmas Tree 2/3/4/5/6/7/8FT Fluffy,120.0,3,6,1,"christmas tree, home and garden",4.0,,
+14,T-Shirt,Comfortable cotton t-shirt,15.99,1,49,1,"clothing, casual",4.0,2024-10-27 14:32:34,1730039554000
+15,Jeans,Stylish blue jeans,39.99,1,27,1,"clothing, denim",5.0,2024-10-27 14:32:34,1730039554000
+16,Jacket,Warm winter jacket,59.99,1,19,1,"clothing, winter",4.0,2024-10-27 14:32:34,1730039554000
+17,Sofa,Comfortable 3-seater sofa,299.99,2,8,1,"furniture, living room",4.0,2024-10-27 14:32:34,1730039554000
+18,Dining Table,Wooden dining table with 4 chairs,199.99,2,14,1,"furniture, dining",5.0,2024-10-27 14:32:34,1730039554000
+19,Office Chair,Ergonomic office chair,89.99,2,23,1,"furniture, office",4.0,2024-10-27 14:32:34,1730039554000
+20,Lawn Mower,Electric lawn mower,149.99,3,11,1,"home, garden, outdoor",4.0,2024-10-27 14:32:34,1730039554000
+21,Garden Hose,50ft garden hose,19.99,3,49,1,"home, garden",4.0,2024-10-27 14:32:34,1730039554000
+22,Grill,Outdoor BBQ grill,89.99,3,7,1,"home, garden, outdoor",5.0,2024-10-27 14:32:34,1730039554000
+23,Blender,High-speed blender,29.99,4,38,1,"kitchen, appliances",5.0,2024-10-27 14:32:34,1730039554000
+24,Microwave,Compact microwave oven,59.99,4,15,1,"kitchen, appliances",4.0,2024-10-27 14:32:34,2024-10-27 14:32:34
+25,Coffee Maker,12-cup coffee maker,24.99,4,30,1,"kitchen, appliances",5.0,2024-10-27 14:32:34,2024-10-27 14:32:34
+26,Soccer Ball,Official size soccer ball,19.99,5,99,1,"sports, soccer",4.0,2024-10-27 14:32:34,1730039554000
+27,Tennis Racket,Lightweight tennis racket,49.99,5,20,1,"sports, tennis",5.0,2024-10-27 14:32:34,2024-10-27 14:32:34
+28,Yoga Mat,Non-slip yoga mat,14.99,5,60,1,"sports, yoga",4.0,2024-10-27 14:32:34,2024-10-27 14:32:34
+29,Designer Suit,Luxury designer suit,399.99,6,5,1,"clothing, premium",5.0,2024-10-27 14:32:34,2024-10-27 14:32:34
+30,Leather Jacket,Premium leather jacket,249.99,6,9,1,"clothing, premium",4.0,2024-10-27 14:32:34,1730039554000
+31,Silk Scarf,Elegant silk scarf,49.99,6,14,1,"clothing, premium",4.0,2024-10-27 14:32:34,1730039554000
+32,Samsung Smartphone,Latest model smartphone,699.99,7,50,1,"electronics, mobile",,2024-10-27 14:32:34,
+33,Apple Laptop,15-inch laptop,999.99,7,24,1,"electronics, computer",,2024-10-27 14:32:34,
+34,Apple Tablet,10-inch tablet,299.99,7,37,1,"electronics, mobile",,2024-10-27 14:32:34,
+35,Love Story - Novel,Best-selling novel,14.99,8,99,1,"books, fiction",,2024-10-27 14:32:34,
+36,Cookbook,Recipe book for healthy meals,24.99,8,48,1,"books, cooking",4.0,2024-10-27 14:32:34,1730039554000
+37,"Martin Luther King, Jr.: A Biography ",Inspiring life story,19.99,8,78,1,"books, non-fiction",,2024-10-27 14:32:34,
+38,Chocolate,Organic dark chocolate,3.99,9,199,1,"food, snacks",4.0,2024-10-27 14:32:34,1730039554000
+39,"Arabic Blend, Coffee Beans",Fresh roasted coffee beans,12.99,9,99,1,"food, beverage",,2024-10-27 14:32:34,
+40,Tesco Olive Oil 1L,Extra virgin olive oil,9.99,9,79,1,"food, cooking",,2024-10-27 14:32:34,
